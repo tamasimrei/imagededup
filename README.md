@@ -110,3 +110,7 @@ go test -race ./...                 # run all tests
 go test -run TestPromptDeclined ./...  # run one test
 gofmt -l . && go vet ./...          # lint
 ```
+
+## License
+
+[MIT-0](LICENSE)
